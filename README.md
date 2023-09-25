@@ -14,7 +14,10 @@ Além disto, é bom ter um editor para trabalhar com o código como [VSCode](htt
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:OctavioDelpupo/IFES-JAVASCRIPT-2023-2.gits
+$ git clone https://github.com/OctavioDelpupo/IFES-JAVASCRIPT-2023-2.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd IFES-JAVASCRIPT-2023-2
 
 # Instale as dependências
 $ npm install
