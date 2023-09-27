@@ -10,8 +10,7 @@ console.log("Nome: ", nome);
 console.log("Pagou: ", pagou);
 
 console.log("Os tipos das variáveis são: ");
-console.log("idade ", typeof (idade));
-console.log("altura ", typeof (altura));
-console.log("nome ", typeof (nome));
-console.log("pagou ", typeof (pagou));
-
+console.log("idade ", typeof idade);
+console.log("altura ", typeof altura);
+console.log("nome ", typeof nome);
+console.log("pagou ", typeof pagou);
