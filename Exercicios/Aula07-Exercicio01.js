@@ -1,5 +1,6 @@
 prompt = require("prompt-sync")();
 
+var resultado = ' '
 var nomeAluno = String(prompt('Nome do Aluno: '));
 var nota1 = parseFloat(prompt('Digita a primeira nota: '));
 var nota2 = parseFloat(prompt('Digita a segunda nota: '));
