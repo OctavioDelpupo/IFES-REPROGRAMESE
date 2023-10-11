@@ -12,13 +12,13 @@ do {
     validation = "valido";
   } else {
     for (i = 1; i <= number; i++) {
-      divisores = 0;
+      dividers = 0;
       for (j = 1; j <= i; j++) {
         if (i % j == 0) {
-          divisores = divisores + 1;
+          dividers = dividers + 1;
         }
       }
-      if (divisores == 2) {
+      if (dividers == 2) {
         prime += 1;
         endSystem = true;
       }
