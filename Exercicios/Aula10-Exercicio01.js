@@ -9,7 +9,7 @@ do {
   );
 
   if (number < 1 || isNaN(number)) {
-    validation = " valido";
+    validation = "valido";
   } else {
     for (i = 1; i <= number; i++) {
       divisores = 0;
