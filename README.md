@@ -6,11 +6,15 @@
 
 ### Pré-requisitos
 
+---
+
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 Além disto, é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 ### 🎲 Rodando nosso Projeto
+
+---
 
 ```bash
 # Clone este repositório
@@ -30,7 +34,11 @@ $ node [nome-do-exercício]
 
 ```
 
-### :computer: Tecnologias utilizadas
+📘 Acesso os exercício [aqui](/Exercicios/)
+
+### 💻 Tecnologias utilizadas
+
+---
 
 - [Node.js](https://nodejs.org/en/)
 
@@ -39,9 +47,9 @@ $ node [nome-do-exercício]
 ---
 
 <a href="https://OctavioDelpupo.github.io/">
- <img style="border-radius: 30;" src="https://octaviodelpupo.github.io/assets/images/octavio.jpg" width="100px;" alt=""/>
+ <img style="border-radius: 30;" src="https://octaviodelpupo.github.io/assets/images/octavio.jpg" width="100px;" alt=""/> 
  <br />
 
-## :closed_book: Licença
+## 📕 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/OctavioDelpupo/IFES-JAVASCRIPT-2023-2/blob/main/LICENSE) para mais detalhes.
