@@ -37,9 +37,9 @@ Na área em <b>azul</b>:
 ![Exercício 01](/img/002.png)
 [Exercícios resolvido](./Exercicios/001/)
 
-### 📙 Exercício 02
-
 <div id='X2'/>
+
+### 📙 Exercício 02
 
 <b>Capturando valores. </b>Elabore um algoritmo no arquivo <b>script.js</b>, utilizando linguagem de
 Programação JavaScript, para implementar a captura de valores de campos do tipo text.
@@ -59,9 +59,9 @@ No botão <b>Calcular</b>:
 ![Exercício 02](/img/003.png)
 [Exercícios resolvido](./Exercicios/002/)
 
-### 📙 Exercício 03
-
 <div id='X3'/>
+
+### 📙 Exercício 03
 
 <b>Adicionando elementos</b>. Elabore um algoritmo no arquivo <b>script.js</b>, utilizando linguagem
 de Programação JavaScript, para implementar a adição de elementos na página.
@@ -81,9 +81,9 @@ No botão <b>Adicionar</b>:
 ![Exercício 03](/img/004.png)
 [Exercícios resolvido](./Exercicios/003/)
 
-### 📙 Exercício 04
-
 <div id='X4'/>
+
+### 📙 Exercício 04
 
 <b>Alterando imagens.</b> Elabore um algoritmo no arquivo <b>script.js</b>, utilizando linguagem de
 Programação JavaScript, para implementar a alteração de imagens na página.
