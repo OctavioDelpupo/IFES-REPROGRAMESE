@@ -22,4 +22,4 @@ esteja escutando): altere o texto da área em vermelho para ‘Passe o Mouse!.
 Observação: para implementação dos eventos utilize a função ‘addEventListener’.
 
 ![Exercício 02](/img/002.png)
-[Exercícios resolvido](./Exercicios/)
+[Exercícios resolvido](./Exercicios/Ex-01)
