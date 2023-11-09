@@ -1,4 +1,4 @@
-# EXERCÍCIOS - AULA 01
+# 📚 EXERCÍCIOS - AULA 01
 
 Elabore um algoritmo no arquivo script.js, utilizando linguagem de Programação
 JavaScript, para contar e mostrar todos elementos existentes em um página codificada no

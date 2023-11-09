@@ -1,8 +1,10 @@
-# AULA 01
+# 📚 Exercícios
 
-# AULA 2
+## AULA 01
 
-### Exercício 01
+## AULA 2
+
+### 📙 Exercício 01
 
 <b>Eventos do mouse</b>. Elabore um algoritmo no arquivo <b>script.js</b>, utilizando linguagem de
 Programação JavaScript, para implementar a manipulação de eventos do mouse.
@@ -30,7 +32,7 @@ Na área em <b>azul</b>:
 ![Exercício 02](/img/002.png)
 [Exercícios resolvido](./Exercicios/001/)
 
-### Exercício 02
+### 📙 Exercício 02
 
 <b>Capturando valores. </b>Elabore um algoritmo no arquivo <b>script.js</b>, utilizando linguagem de
 Programação JavaScript, para implementar a captura de valores de campos do tipo text.
