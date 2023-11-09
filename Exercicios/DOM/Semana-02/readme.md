@@ -1,8 +1,17 @@
 # 📚 Exercícios
 
+## Sumario
+
+1.  [Aula 1](#A1)
+2.  [Aula 2](#A2)
+
 ## AULA 01
 
+<div id='A1'/>
+
 ## AULA 2
+
+<div id='A2'/>
 
 ### 📙 Exercício 01
 
@@ -29,7 +38,7 @@ Na área em <b>azul</b>:
 
   <b>Observação</b>: para implementação dos eventos utilize a função ‘addEventListener’.
 
-![Exercício 02](/img/002.png)
+![Exercício 01](/img/002.png)
 [Exercícios resolvido](./Exercicios/001/)
 
 ### 📙 Exercício 02
@@ -51,3 +60,46 @@ No botão <b>Calcular</b>:
 
 ![Exercício 02](/img/003.png)
 [Exercícios resolvido](./Exercicios/002/)
+
+### 📙 Exercício 03
+
+<b>Adicionando elementos</b>. Elabore um algoritmo no arquivo <b>script.js</b>, utilizando linguagem
+de Programação JavaScript, para implementar a adição de elementos na página.
+Na figura a seguir mostramos à esquerda, o código da página index.html. À direita,
+mostramos o resultado da exibição do site, após a elaboração do algoritmo no arquivo
+script.js.
+
+O código a ser elaborado no arquivo script.js deve considerar o seguinte evento:
+No botão <b>Adicionar</b>:
+
+- evento <b>click</b> (ocorre quando o usuário clica o botão do mouse): gere aleatoriamente
+  um número, de 1 até 100, utilizando a instrução <b>‘Math.random() \* (100) + 1’.</b> O
+  número gerado deve ser adicionado como uma nova linha da tabela de números.
+
+<b>Observação</b>: para implementação dos eventos utilize a função ‘addEventListener’.
+
+![Exercício 03](/img/004.png)
+[Exercícios resolvido](./Exercicios/003/)
+
+### 📙 Exercício 04
+
+<b>Alterando imagens.</b> Elabore um algoritmo no arquivo <b>script.js</b>, utilizando linguagem de
+Programação JavaScript, para implementar a alteração de imagens na página.
+Na figura a seguir mostramos à esquerda, o código da página index.html. Na parte superior
+à direita, mostramos o resultado da exibição do site, após a elaboração do algoritmo no
+arquivo script.js. Na parte inferior à direita, temos o código do arquivo style.css.
+O código a ser elaborado no arquivo script.js deve considerar os seguintes eventos:
+No botão <b>HTML</b> :
+
+- evento <b>click</b>: altere a imagem para html.png
+  No botão <b>CSS</b>:
+- evento <b>click</b>: altere a imagem para css.png
+  No botão <b>JS</b>:
+- evento click: altere a imagem para js.png
+  Na imagem:
+- evento <b>click</b>: altere a imagem para todas.png
+
+<b>Observação</b> : para implementação dos eventos utilize a função ‘addEventListener’.
+
+![Exercício 04](/img/005.png)
+[Exercícios resolvido](./Exercicios/004/)
