@@ -1,19 +1,15 @@
-# 📚 Exercícios
+# 📚 Exercícios Aula 2
 
 ## Sumario
 
-1.  [Aula 1](#A1)
-2.  [Aula 2](#A2)
-
-## AULA 01
-
-<div id='A1'/>
-
-## AULA 2
-
-<div id='A2'/>
+1.  [Exercício 01](#X1)
+1.  [Exercício 02](#X2)
+1.  [Exercício 03](#X3)
+1.  [Exercício 04](#X4)
 
 ### 📙 Exercício 01
+
+<div id='X1'/>
 
 <b>Eventos do mouse</b>. Elabore um algoritmo no arquivo <b>script.js</b>, utilizando linguagem de
 Programação JavaScript, para implementar a manipulação de eventos do mouse.
@@ -43,6 +39,8 @@ Na área em <b>azul</b>:
 
 ### 📙 Exercício 02
 
+<div id='X2'/>
+
 <b>Capturando valores. </b>Elabore um algoritmo no arquivo <b>script.js</b>, utilizando linguagem de
 Programação JavaScript, para implementar a captura de valores de campos do tipo text.
 Na figura a seguir mostramos à esquerda, o código da página index.html. À direita,
@@ -63,6 +61,8 @@ No botão <b>Calcular</b>:
 
 ### 📙 Exercício 03
 
+<div id='X3'/>
+
 <b>Adicionando elementos</b>. Elabore um algoritmo no arquivo <b>script.js</b>, utilizando linguagem
 de Programação JavaScript, para implementar a adição de elementos na página.
 Na figura a seguir mostramos à esquerda, o código da página index.html. À direita,
@@ -82,6 +82,8 @@ No botão <b>Adicionar</b>:
 [Exercícios resolvido](./Exercicios/003/)
 
 ### 📙 Exercício 04
+
+<div id='X4'/>
 
 <b>Alterando imagens.</b> Elabore um algoritmo no arquivo <b>script.js</b>, utilizando linguagem de
 Programação JavaScript, para implementar a alteração de imagens na página.
