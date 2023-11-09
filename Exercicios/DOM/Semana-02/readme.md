@@ -1,4 +1,6 @@
-## EXERCÍCIO 01 - AULA 02
+# AULA 02
+
+### Exercício 01
 
 Eventos do mouse. Elabore um algoritmo no arquivo script.js, utilizando linguagem de
 Programação JavaScript, para implementar a manipulação de eventos do mouse.
@@ -20,3 +22,4 @@ esteja escutando): altere o texto da área em vermelho para ‘Passe o Mouse!.
 Observação: para implementação dos eventos utilize a função ‘addEventListener’.
 
 ![Exercício 02](/img/002.png)
+[Exercícios resolvido](./Exercicios/)
