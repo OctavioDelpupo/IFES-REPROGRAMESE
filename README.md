@@ -27,7 +27,7 @@ $ cd IFES-JAVASCRIPT-2023-2
 $ npm install
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Exercicios
+$ cd .\Exercicios\JAVASCRIPT\
 
 # Execute os exercícios
 $ node [nome-do-exercício]
