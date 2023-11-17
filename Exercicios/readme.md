@@ -26,3 +26,4 @@
 
 - [1ª Semana](./DOM/Atividade-Pratica/Pratica_da_Semana-01/)
 - [2ª Semana](./DOM/Atividade-Pratica/Pratica_da_Semana-02/)
+- [3ª Semana](./DOM/Atividade-Pratica/Pratica_da_Semana-03/)
