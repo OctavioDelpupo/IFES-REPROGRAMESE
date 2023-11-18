@@ -24,7 +24,7 @@ JSON’s que representam contatos (com os atributos nome e telefone), por exempl
 ```
 
 ![codigo-da-pratica](/img/006.png)
-[Exercício 01 Resolvidos](/Exercicios/DOM/Atividade-Pratica/Pratica_da_Semana-03/ex-001/)
+[Exercício 01 Resolvidos](/Exercicios/DOM/Semana-03/Exercicios/ex-001/)
 
 ### Exercício 02
 
@@ -40,4 +40,4 @@ algoritmo no arquivo script.js.
 
 ![codigo-da-pratica](/img/007.png)
 
-[Exercício 02 Resolvidos](/Exercicios/DOM/Atividade-Pratica/Pratica_da_Semana-03/ex-002/)
+[Exercício 02 Resolvidos](/Exercicios/DOM/Semana-03/Exercicios/ex-002/)
