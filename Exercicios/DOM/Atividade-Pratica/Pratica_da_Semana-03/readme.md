@@ -18,6 +18,6 @@ Pelo menos, uma validação customizada deve ser realizada. No exemplo de códig
 
 ## Light/Dark mode
 
-<img align="left" alt="" width="500" src="./img/light.png">
+<img align="left" alt="" width="400" src="./img/light.png">
 
-<img align="right" alt="" width="500" src="./img/dark.png">
+<img align="right" alt="" width="400" src="./img/dark.png">
