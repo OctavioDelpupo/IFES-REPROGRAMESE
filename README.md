@@ -40,6 +40,7 @@ $ node [nome-do-exercício]
 
 ---
 
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Node.js](https://nodejs.org/en/)
 
 ### Autor

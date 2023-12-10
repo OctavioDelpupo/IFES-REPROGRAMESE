@@ -27,3 +27,11 @@
 - [1ª Semana](./DOM/Atividade-Pratica/Pratica_da_Semana-01/)
 - [2ª Semana](./DOM/Atividade-Pratica/Pratica_da_Semana-02/)
 - [3ª Semana](./DOM/Atividade-Pratica/Pratica_da_Semana-03/)
+
+### F2M1-2024 :: Introdução ao framework Node.js
+
+- [Exercícios Resolvidos da 1ª Semana](./NODE-JS/Exercicios/Semana-01/)
+
+#### Atividade pratica Node.js:
+
+- [1ª Semana](./NODE-JS/Atividade-Pratica/Semana-01/)
