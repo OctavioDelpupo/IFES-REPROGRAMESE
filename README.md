@@ -1,4 +1,4 @@
-# IFES-JAVASCRIPT-2023-2
+# IFES REPROGRAME-SE 2023/2
 
 <div align="center">
 <img width="200" alt="Logo ifes" title="logo-ifes" src="img/logo.png" />
@@ -12,7 +12,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 Além disto, é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
-### 🎲 Rodando nosso Projeto
+<!-- ### 🎲 Rodando nosso Projeto
 
 ---
 
@@ -32,14 +32,23 @@ $ cd .\Exercicios\JAVASCRIPT\
 # Execute os exercícios
 $ node [nome-do-exercício]
 
-```
+``` -->
+<!--
+📘 Acesso os exercício [aqui](/Exercicios/) -->
 
-📘 Acesso os exercício [aqui](/Exercicios/)
+###
+
+[FIC1 - Front-End]()
+
+[FIC2 - Back-End]()
 
 ### 💻 Tecnologias utilizadas
 
 ---
 
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [BOOTSTRAP 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Node.js](https://nodejs.org/en/)
 
