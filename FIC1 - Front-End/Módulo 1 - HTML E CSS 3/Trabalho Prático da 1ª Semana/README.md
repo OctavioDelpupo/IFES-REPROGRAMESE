@@ -6,7 +6,7 @@ Nessa atividade, você vai colocar em prática todo o conteúdo abordado ao long
 
 ![HTML5](https://img.shields.io/badge/HTML5-d84924?style=for-the-badge&logo=html5&logoColor=white)
 
-## Materiais de Apoio
+## Professor Formador
 
 - [@maroquio](https://github.com/maroquio)
 
