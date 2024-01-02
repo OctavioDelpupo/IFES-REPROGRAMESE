@@ -1,4 +1,4 @@
-# Exercício pratico 1ª Semana
+# Exercício pratico 2ª Semana
 
 ## Tecnologias
 
