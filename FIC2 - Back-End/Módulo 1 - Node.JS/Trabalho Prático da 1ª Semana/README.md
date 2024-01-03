@@ -1,4 +1,4 @@
-# Atividade prática da 1ª semana - 5 pontos
+# Atividade prática da 1ª Semana
 
 Crie um programa em JavaScript que permita a coleta dos seguintes dados de uma pessoa por meio do terminal, a fim de criar um futuro cadastro fictício: **Nome completo, RG, CPF e Data de Nascimento**. Caso a pessoa tenha mais de 18 anos, o sistema deve solicitar também o **número do título de eleitor**.
 
