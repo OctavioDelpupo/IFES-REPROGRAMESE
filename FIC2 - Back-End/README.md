@@ -1,4 +1,4 @@
-# Back-End
+# Back-End com Node.JS
 
 ### 🎲 Rodando nosso Projeto
 
@@ -20,15 +20,9 @@ $ node [nome-do-exercício]
 
 ```
 
-📘 Acesso os exercício [aqui](/Exercicios/)
+## 1ª Semana
 
-## Lista Exercício pratico da Semana
+- [Exercícios](./Módulo%201%20-%20Node.JS/Exercicio/)
+- [Atividade Pratica](./Módulo%201%20-%20Node.JS/Trabalho%20Prático%20da%201ª%20Semana/)
 
-### Módulo 1 - Node.JS
-
-#### Exercícios
-
-- [1ª Semana](./Módulo%201%20-%20Node.JS/)
-<ol>
-    <li>Primeiro elemento</li>
-</ol>
+## 2ª Semana

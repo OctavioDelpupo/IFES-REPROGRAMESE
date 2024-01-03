@@ -76,3 +76,15 @@ executou um arquivo JavaScript dentro do projeto.
 O npm é uma ferramenta poderosa para gerenciar dependências e tornar o
 desenvolvimento de projetos Node.js mais eficiente. Continue explorando e aprendendo
 mais sobre as funcionalidades do npm!
+
+## Tecnologias
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+## Professor Formador
+
+- [@TheFilipeeringer](https://github.com/eringer)
+
+# Resolução
+
+![Resultado](./projeto-npm/assets/result.png)
