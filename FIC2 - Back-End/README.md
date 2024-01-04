@@ -30,7 +30,7 @@ $ node [nome-do-exercício]
 - [Exercícios]()
 - [Atividade Pratica]()
 
-## 2ª Semana
+## 3ª Semana
 
 - [Exercícios](./Módulo%203%20-%20Node.JS/Exercicio/)
 - [Atividade Pratica]()
