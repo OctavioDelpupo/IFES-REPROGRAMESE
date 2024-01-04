@@ -33,4 +33,4 @@ $ node [nome-do-exercício]
 ## 3ª Semana
 
 - [Exercícios](./Módulo%203%20-%20Node.JS/Exercicio/)
-- [Atividade Pratica]()
+- [Atividade Pratica](./Módulo%203%20-%20Node.JS/Trabalho%20Prático%20da%203ª%20Semana/)
