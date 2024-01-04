@@ -3,3 +3,4 @@
 ## Exercícios
 
 - [CallBacks](./CallBacks/)
+- [Promises](./Promises/)
