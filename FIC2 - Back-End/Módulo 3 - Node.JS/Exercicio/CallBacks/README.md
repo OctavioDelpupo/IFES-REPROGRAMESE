@@ -13,3 +13,7 @@ Observe que a função baixarConteudo recebe o nome do conteúdo e a função de
 callback como parâmetros. Após o término do download simulado, a função de callback
 é chamada, indicando que o download foi concluído. Este é um exemplo básico para
 ilustrar como os callbacks podem ser utilizados em situações assíncronas em JavaScript.
+
+# Resolução
+
+![](../../assets/CallBacks.gif)
