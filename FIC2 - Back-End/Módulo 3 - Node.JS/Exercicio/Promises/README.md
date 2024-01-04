@@ -12,3 +12,7 @@ Ao usar .then e .catch, podemos tratar o resultado da Promise. Se a Promise for 
 dentro do .then é executado. Se a Promise for rejeitada, o código dentro do .catch é executado.
 Além disso, podemos encadear várias Promises sequencialmente usando vários blocos .then, o que
 proporciona um código mais limpo e legível para operações assíncronas.
+
+# Resolução
+
+![](../../assets/Promises.gif)

@@ -1,15 +1,13 @@
 function baixarConteudoPromisse(nomeConteudo) {
   return new Promise((resolve, reject) => {
     console.log(`Iniciando o download de ${nomeConteudo}`);
-
     //Simula um tempo de download (em milissegundos)
     setTimeout(() => {
       const sucesso = true; //Simula se o download foi bem sucedido
-
+      console.log("________________________________________________");
       if (sucesso) {
         console.log(`${nomeConteudo} foi baixado com sucesso.`);
         resolve(nomeConteudo); // Resolvendo a Promise com sucesso
-        console.log("________________________________________________");
       } else {
         const erro = "Erro ao baixar o conteúdo";
         console.error(erro);
