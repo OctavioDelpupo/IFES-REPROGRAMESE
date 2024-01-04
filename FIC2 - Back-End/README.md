@@ -26,3 +26,6 @@ $ node [nome-do-exercício]
 - [Atividade Pratica](./Módulo%201%20-%20Node.JS/Trabalho%20Prático%20da%201ª%20Semana/)
 
 ## 2ª Semana
+
+- [Exercícios]()
+- [Atividade Pratica]()
