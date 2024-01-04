@@ -14,6 +14,14 @@ callback como parâmetros. Após o término do download simulado, a função de 
 é chamada, indicando que o download foi concluído. Este é um exemplo básico para
 ilustrar como os callbacks podem ser utilizados em situações assíncronas em JavaScript.
 
+## Tecnologias
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+## Professor Formador
+
+- [@TheFilipeeringer](https://github.com/eringer)
+
 # Resolução
 
 ![](../../assets/CallBacks.gif)

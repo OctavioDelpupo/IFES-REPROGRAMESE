@@ -13,6 +13,14 @@ dentro do .then é executado. Se a Promise for rejeitada, o código dentro do .c
 Além disso, podemos encadear várias Promises sequencialmente usando vários blocos .then, o que
 proporciona um código mais limpo e legível para operações assíncronas.
 
+## Tecnologias
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+## Professor Formador
+
+- [@TheFilipeeringer](https://github.com/eringer)
+
 # Resolução
 
 ![](../../assets/Promises.gif)
