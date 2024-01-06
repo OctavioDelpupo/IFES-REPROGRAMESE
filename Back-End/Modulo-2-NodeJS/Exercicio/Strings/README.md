@@ -16,12 +16,12 @@ function generateMessage(name, age, city) {
 ```
 
 Neste exemplo, a função generateMessage aceita três parâmetros: name
-(nome), age (idade) e city (cidade). A função uEliza a concatenação de strings e template
+(nome), age (idade) e city (cidade). A função utiliza a concatenação de strings e template
 literals para criar uma mensagem personalizada com base nas informações fornecidas.
 O código acima define informações para uma pessoa (nome, idade e cidade),
 chama a função generateMessage com essas informações e depois imprime a
 mensagem formatada no console.
-Este exercício práEco demonstra como usar concatenação de strings com
+Este exercício prático demonstra como usar concatenação de strings com
 template literals para criar mensagens personalizadas de forma eficiente e legível
 
 ## Tecnologias
@@ -34,4 +34,4 @@ template literals para criar mensagens personalizadas de forma eficiente e legí
 
 # Resolução
 
-![]()
+![String](../../assets/Strings.gif)
