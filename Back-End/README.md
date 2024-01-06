@@ -22,8 +22,8 @@ $ node [nome-do-arquivo.JS]
 
 ## 1ª Semana
 
-- [Exercícios]()
-- [Atividade Pratica]()
+- [Exercícios](./Modulo-1-NodeJS/Exercicio/)
+- [Atividade Pratica](./Modulo-1-NodeJS/Atividade-Pratica/)
 
 ## 2ª Semana
 
