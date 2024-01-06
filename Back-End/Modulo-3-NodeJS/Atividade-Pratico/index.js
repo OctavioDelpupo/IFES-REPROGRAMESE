@@ -83,8 +83,8 @@ async function excluirCarro() {
 
 async function main() {
   let op;
-  console.log(logoEmpresa[0]);
   do {
+    console.log(logoEmpresa[0]);
     console.log(`
     1 - Listar carros
     2 - Cadastrar carros    

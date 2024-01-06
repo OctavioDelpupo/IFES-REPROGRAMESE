@@ -20,3 +20,5 @@ Nesta tarefa você deverá fazer um sistema em JavaScript, utilizando Node.js, q
 Para as funcionalidades 1 e 2 do sistema, crie funções que retornam uma Promise. Você deve tratar o retorno dessas funções com o async/await.
 
 Observe abaixo um exemplo do comportamento do sistema:
+
+![Atividade-Pratica](../assets/atividade-pratica.gif)
