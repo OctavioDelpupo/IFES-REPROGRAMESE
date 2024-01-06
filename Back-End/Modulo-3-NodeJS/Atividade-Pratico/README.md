@@ -1,4 +1,4 @@
-# Atividade prática da semana 4
+# Atividade prática da semana 3
 
 Nesta tarefa você deverá fazer um sistema em JavaScript, utilizando Node.js, que dê ao usuário 3 opções:
 
