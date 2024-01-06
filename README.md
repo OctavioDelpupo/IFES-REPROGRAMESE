@@ -12,7 +12,7 @@ Além disto, é bom ter um editor para trabalhar com o código como [VSCode](htt
 
 [FIC1 - Front-End]()
 
-[FIC2 - Back-End]()
+[FIC2 - Back-End](./Back-End/)
 
 ### 💻 Tecnologias utilizadas
 

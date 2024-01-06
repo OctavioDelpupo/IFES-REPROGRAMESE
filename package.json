@@ -1,0 +1,15 @@
+{
+  "name": "ifes-reprogramese",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r <img width=\"200\" alt=\"Logo ifes\" title=\"logo-ifes\" src=\"assets/logo.png\" />\r </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
