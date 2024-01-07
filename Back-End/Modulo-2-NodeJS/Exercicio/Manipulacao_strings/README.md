@@ -25,4 +25,4 @@ strings em JavaScript!
 
 # Resolução
 
-![String](../../assets/Polindrome.gif)
+![Palindrome](../../assets/Polindrome.gif)
