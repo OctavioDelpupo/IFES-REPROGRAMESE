@@ -1,6 +1,7 @@
-const { log } = require("console");
 const fs = require("fs");
+const path = require("path");
 const prompt = require("prompt-sync")();
+const filePath = path.join(__dirname, "bd.json");
 
 let logoEmpresa = [
   `  ┌─────── •✧✧• ──────┐
@@ -21,7 +22,7 @@ function adicionarCarro(lista, carro) {
   json = JSON.stringify({ carros: lista });
 
   return new Promise((resolve, reject) => {
-    fs.writeFile("./bd.json", json, (erro) => {
+    fs.writeFile(filePath, json, (erro) => {
       //retorne aqui um erro com o reject ou uma mensagem de sucesso com o resolve
       if (erro) {
         reject(erro);
@@ -33,7 +34,7 @@ function adicionarCarro(lista, carro) {
 
 function obterCarros() {
   return new Promise((resolve, reject) => {
-    fs.readFile("./bd.json", "utf-8", (erro, data) => {
+    fs.readFile(filePath, "utf-8", (erro, data) => {
       //retorne aqui um erro com o reject ou os dados com o resolve
       if (erro) {
         reject(erro);
