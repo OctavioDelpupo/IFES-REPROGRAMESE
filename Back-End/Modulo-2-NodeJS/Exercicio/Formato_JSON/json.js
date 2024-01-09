@@ -59,7 +59,7 @@ function main() {
         let novaTarefa = prompt("Digite a tarefa: ");
         adicionarTarefa(novaTarefa);
         prompt(`Enter para continuar...`);
-
+        console.clear();
         break;
 
       case "2":
