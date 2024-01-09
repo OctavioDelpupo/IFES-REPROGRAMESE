@@ -30,4 +30,4 @@ tarefas conforme necessário. CerEfique-se de criar um arquivo JSON chamado
 
 # Resolução
 
-![JSON](../../assets/Json.gif)
+![JSON](../../assets/json.gif)
